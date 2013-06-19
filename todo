@@ -1,0 +1,4 @@
+which 500 bp taken for findmp??
+is it off by a multiple of ext_size???
+weigh based on distance, 500 -> 1, 250 -> 0.5, 750 - > 0.5
+use find mp to make sure stuff is good
